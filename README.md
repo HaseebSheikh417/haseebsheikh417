@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning React Native.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React Native.
-- 📫 How to reach me: Facebook-haseebsheikh1@hotmail.com
+- 📫 How to reach me: Facebook - www.facebook.com/haseeb.sheikh.501
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play piano and let the piano guess the song/music.
