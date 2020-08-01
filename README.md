@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Business Experts Pakistan.
 - 🌱 I’m currently learning React Native.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React Native.
 - 📫 How to reach me: Facebook - www.facebook.com/haseeb.sheikh.501
 - 😄 Pronouns: He/His
