@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T11:25:36.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="kTfDrY0t0Edjuh0QHuLz" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T11:34:04.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="G_s01S6GCPuYrMbQ86x_" version="14.3.0" type="github">
   <diagram id="qmCr2FLJXnJFnxge0UcX" name="Page-1">
     <mxGraphModel dx="1332" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,6 +41,14 @@
             <Array as="points">
               <mxPoint x="420" y="250" />
               <mxPoint x="1320" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vO0fWZWFfqbv7m5PLt3y-1" target="vO0fWZWFfqbv7m5PLt3y-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="250" />
+              <mxPoint x="1000" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,7 +105,7 @@
         <mxCell id="vO0fWZWFfqbv7m5PLt3y-8" value="Tour agency find&lt;br&gt;3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vO0fWZWFfqbv7m5PLt3y-9" value="Calculate estimated budget&lt;br&gt;2.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-9" value="Calculate estimated budget&lt;br&gt;2.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vO0fWZWFfqbv7m5PLt3y-12" value="contact tour agency&lt;br&gt;3.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -112,11 +120,23 @@
         <mxCell id="vO0fWZWFfqbv7m5PLt3y-19" value="Book tickets&lt;br&gt;3.4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vO0fWZWFfqbv7m5PLt3y-21" value="Packing&amp;nbsp;&lt;br&gt;4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-21" value="Packing&amp;nbsp;&lt;br&gt;5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vO0fWZWFfqbv7m5PLt3y-23" value="Visit&lt;br&gt;5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-23" value="Visit&lt;br&gt;6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-25" value="Plan0: Do 1,2,,3,5,6 if want to go with tour agency&lt;br&gt;Do: 1,2,4,5 ,6 if want to go and manage by own" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-26" value="Plan 2: Do 2.1 and 2.2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-27" value="Plan 3: Do 3.1, 3.2, 3.3, 3.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="360" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-28" value="Manage by own&lt;br&gt;4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
