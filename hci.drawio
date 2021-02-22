@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T11:34:04.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="G_s01S6GCPuYrMbQ86x_" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T12:21:02.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="P_MhnAYRGZGHhuEYvAvF" version="14.3.0" type="github">
   <diagram id="qmCr2FLJXnJFnxge0UcX" name="Page-1">
-    <mxGraphModel dx="1332" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1567" dy="944" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="250" />
-              <mxPoint x="1140" y="250" />
+              <mxPoint x="1350" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="250" />
-              <mxPoint x="1320" y="250" />
+              <mxPoint x="1510" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="250" />
-              <mxPoint x="1000" y="250" />
+              <mxPoint x="1200" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -121,10 +121,10 @@
           <mxGeometry x="960" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vO0fWZWFfqbv7m5PLt3y-21" value="Packing&amp;nbsp;&lt;br&gt;5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vO0fWZWFfqbv7m5PLt3y-23" value="Visit&lt;br&gt;6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vO0fWZWFfqbv7m5PLt3y-25" value="Plan0: Do 1,2,,3,5,6 if want to go with tour agency&lt;br&gt;Do: 1,2,4,5 ,6 if want to go and manage by own" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="210" width="280" height="30" as="geometry" />
@@ -135,8 +135,14 @@
         <mxCell id="vO0fWZWFfqbv7m5PLt3y-27" value="Plan 3: Do 3.1, 3.2, 3.3, 3.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="360" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vO0fWZWFfqbv7m5PLt3y-28" target="vO0fWZWFfqbv7m5PLt3y-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vO0fWZWFfqbv7m5PLt3y-28" value="Manage by own&lt;br&gt;4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vO0fWZWFfqbv7m5PLt3y-30" value="Find best possible route&lt;br&gt;4.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
