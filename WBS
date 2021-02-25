@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T10:31:45.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="G_pbb1RXIhYHoKRYI1F4" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T12:21:14.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="EHfvzV_3VEtdhyKXIy_U" version="14.4.2" type="github">
   <diagram id="IJVN_TYiKqWulScBKQAm" name="Page-1">
     <mxGraphModel dx="1332" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,11 +50,21 @@
         <mxCell id="dNk8pQXvNXLwtB0yHq9y-5" value="Query Failure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="546" y="184" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.65;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dNk8pQXvNXLwtB0yHq9y-9" target="ivUl9_eSWlPQm-dNTIA4-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="488" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dNk8pQXvNXLwtB0yHq9y-9" value="Knowldege Base creation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="287" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNk8pQXvNXLwtB0yHq9y-11" value="Update knowledge Base" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="287" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ivUl9_eSWlPQm-dNTIA4-3" target="ivUl9_eSWlPQm-dNTIA4-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ivUl9_eSWlPQm-dNTIA4-3" value="Send query to concern department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="287" width="80" height="60" as="geometry" />
@@ -65,11 +75,35 @@
         <mxCell id="ivUl9_eSWlPQm-dNTIA4-4" value="Train model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="287" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ivUl9_eSWlPQm-dNTIA4-7" target="ivUl9_eSWlPQm-dNTIA4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ivUl9_eSWlPQm-dNTIA4-7" value="Update knowledge base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="633" y="287" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ivUl9_eSWlPQm-dNTIA4-9" target="ivUl9_eSWlPQm-dNTIA4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ivUl9_eSWlPQm-dNTIA4-9" value="Pre-process the data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="387" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-14" value="Training component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-16" value="strong knowldgebase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="148" y="492" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ivUl9_eSWlPQm-dNTIA4-20" target="ivUl9_eSWlPQm-dNTIA4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-20" value="Mail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="492" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-22" value="Strong knowledgebase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="633" y="490" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivUl9_eSWlPQm-dNTIA4-26" value="Send email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="592" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
